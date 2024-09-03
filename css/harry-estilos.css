@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* OSO*/
+div {
+    border-radius: 50%;
+    position: absolute;
+}
+.oreja {
+    height: 40px;
+    width: 40px;
+    top: 65px;
+    background-color: pink;
+    border: 10px solid #9E4910;
+}
+.izq {
+    left: 105px;
+}
+.der {
+    left: 205px;
+}
+.ext {
+    height: 50px;
+    width: 80px;
+    background-color: #9E4910;
+}
+.b1 {
+    top: 210px;
+    left: 60px;
+}
+.b2 {
+    top: 210px;
+    left: 250px;
+}
+.p1 {
+    top: 360px;
+    left: 60px;
+}
+.p2 {
+    top: 360px;
+    left: 250px;
+}
+.cara {
+    height: 120px;
+    width: 120px;
+    top: 100px;
+    left: 115px;
+    background-color: #9E4910;
+    padding: 5px 10px;
+    font-family:Helvetica;
+    font-size: 25px;
+    text-align: center;
+}
+.cuerpo {
+    height: 150px;
+    width: 150px;
+    top: 200px;
+    left: 85px;
+    background-color: pink;
+    border: 30px solid #9E4910;
+}
+/*  BANDERA */
+.palo {
+    height: 200px;
+    width: 10px;
+    background-color: black;
+    border-radius: 0;
+    top: 45px;
+    left: 310px;
+}
+.bandera {
+    height: 45px;
+    width: 100px;
+    top: 50px;
+    left: 320px;
+}
